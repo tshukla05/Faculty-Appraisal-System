@@ -1,5 +1,11 @@
 # Faculty-Appraisal-System
 
+To Run:-
+You have to download all files of the project.
+Check Materialise CSS version.
+Follow the instructions file.
+Click on Index.php to run in XAMPP.
+
 FACULTY APPRAISAL(Faculty's Work Measuring System) main objective is store relevant(Correct) and efficient data inorder to measure work process of faculty during semester.
 Faculty can 
 -	Register To The System
